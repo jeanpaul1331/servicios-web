@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "operaciones": "node operaciones.js",
-    "operaciones1": "node operaciones1.js"
+    "operaciones1": "node operaciones1.js",
+    "operadorescompa": "node operadorescompa"
   },
   "keywords": [],
   "author": "",
